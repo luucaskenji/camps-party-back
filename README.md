@@ -10,7 +10,7 @@
 ## About
 <p>
   API for integration between the database and the website of the Camps Party event.<br><br>
-  <a href="https://github.com/thaliadettenborn/campsParty-FrontEnd" target='_blank'>
+  <a href="https://github.com/luucaskenji/camps-party-front.git" target='_blank'>
     ✔️ Click here to view the front-end repository.
   </a>
 </p>
@@ -37,10 +37,10 @@ Before you begin, you will need to have the following tools installed on your ma
 ## Running the web application
 ```bash
 # Clone this repository
-$ git clone <https://github.com/thaliadettenborn/campsParty-BackEnd.git>
+$ git clone <https://github.com/luucaskenji/camps-party-back.git>
 
 # Access the project folder cmd/terminal
-$ cd campsParty-BackEnd
+$ cd camps-party-back
 
 # Install the dependencies
 $ npm install
